@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <PackageReference Include="serilog" Version="2.8.0" />
-    <PackageReference Include="splat" Version="6.1.5" />
+    <PackageReference Include="splat" Version="6.1.7" />
   </ItemGroup>
 
 </Project>
